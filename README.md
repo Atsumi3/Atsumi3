@@ -17,7 +17,7 @@ Here are some ideas to get you started:
     * Flutter (Dart) 2019 -
   * Web Front / Server Side
     * PHP 2011 - 2015
-    * Spring Framework (Java/Kotlin) 2015 -
+    * Spring Framework (Java/Kotlin) 2015 - 2021
     * Vue.js / Nuxt.js (JavaScript/TypeScript) 2019 -
     * Flask / Jinja2 (Python) 2012 - 2016
   * Other
