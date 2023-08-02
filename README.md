@@ -9,6 +9,18 @@ Here are some ideas to get you started:
 * ✉️ You can contact me at [atsumi@mail.bizen.jp](atsumi@mail.bizen.jp)
 * 🔭 I'm currently working on [CyberAgent](https://www.cyberagent.co.jp/)
 * 🌟 I'm learning Flutter, LLM, AR(Spatial Computing), blockchain
+* 🧰 My development experience.
+  * SmartPhone App
+    * Android (Java/Kotlin) 2011 -
+    * iOS (Objective-C/Swift) 2011 -
+    * Kotlin Mobile Platform (Kotlin) 2019 -
+    * Flutter (Dart) 2019 -
+  * Web Front / Server Side
+    * PHP 2011 - 2015
+    * Spring Framework (Java/Kotlin) 2015 -
+    * Vue.js / Nuxt.js (JavaScript/TypeScript) 2019 -
+  * Other
+    * C#.Net 2006 - 2015
 
 <br>
 
