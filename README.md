@@ -13,7 +13,7 @@ Here are some ideas to get you started:
   * SmartPhone App
     * Android (Java/Kotlin) 2011 -
     * iOS (Objective-C/Swift) 2011 -
-    * Kotlin Mobile Platform (Kotlin) 2019 -
+    * Kotlin Multiplatform (Kotlin) 2019 -
     * Flutter (Dart) 2019 -
   * Web Front / Server Side
     * PHP 2011 - 2015
