@@ -1,14 +1,14 @@
 # Atsumi3
 
 ### Hi there !
-Mobile, Mobile Developer
+I"m Mobile App Developer.
 
 Here are some ideas to get you started:
 
 * 🌍  I'm based in Japan, Saitama
 * ✉️ You can contact me at [atsumi@mail.bizen.jp](atsumi@mail.bizen.jp)
 * 🔭 I'm currently working on [CyberAgent](https://www.cyberagent.co.jp/)
-* 🌟 I'm learning Flutter, LLM, AR(Spatial Computing), blockchain
+* 🌟 I'm learning Flutter, AI, xR(Spatial Computing), blockchain
 * 🧰 My work development experience.
   * SmartPhone App
     * Android (Java/Kotlin) 2011 -
