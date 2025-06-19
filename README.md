@@ -28,9 +28,6 @@ Here are some ideas to get you started:
 
 <a href="https://twitter.com/fox9s"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 
-Sandbox 
-https://github.com/atsumi-org-sandbox
-
 Gist
 https://gist.github.com/Atsumi3
 
