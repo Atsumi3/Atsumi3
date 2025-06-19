@@ -1,7 +1,7 @@
 # Atsumi3
 
 ### Hi there !
-I"m Mobile App Developer.
+I"m Atsumi. Mobile App Developer.
 
 Here are some ideas to get you started:
 
