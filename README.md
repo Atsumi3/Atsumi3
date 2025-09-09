@@ -11,18 +11,18 @@ Here are some ideas to get you started:
 * 🌟 I'm learning Flutter, AI, xR(Spatial Computing), blockchain
 * 🧰 My work development experience.
   * SmartPhone App
-    * Android (Java/Kotlin) 2011 -
-    * iOS (Objective-C/Swift) 2011 -
-    * Kotlin Multiplatform (Kotlin) 2019 -
-    * Flutter (Dart) 2019 -
+    * Android (Java/Kotlin)
+    * iOS (Objective-C/Swift)
+    * Kotlin Multiplatform
+    * Flutter
   * Web Front / Server Side
-    * PHP 2011 - 2015
-    * Spring Framework (Java/Kotlin) 2015 - 2021
-    * Vue.js (TypeScript) 2019 -
-    * Nuxt.js (TypeScript) 2019 -
-    * Flask / Jinja2 (Python) 2012 - 2016
+    * PHP
+    * Spring Framework (Java/Kotlin)
+    * Vue.js (TypeScript)
+    * Nuxt.js (TypeScript)
+    * Flask / Jinja2 (Python) 
   * Other
-    * C#.Net 2006 - 2015
+    * C#.Net
 
 <br>
 
