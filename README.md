@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<a href="https://x.com/fox9s"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+<img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Ffox9s&style=social">
 
 Gist
 https://gist.github.com/Atsumi3
